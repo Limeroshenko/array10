@@ -1,3 +1,6 @@
+# 關於這個fork
+主要針對A的部份，補足「教育部本土語言參考字表」
+
 # 行列 10 鍵數字輸入法表格
 (Array10 Numeric Input Method Tables)
 
