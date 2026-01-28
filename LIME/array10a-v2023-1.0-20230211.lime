@@ -1,7 +1,9 @@
 @version@|行列10輸入法
 # 行列10輸入法(array10a) ，版本 v2023-1.0
 # 釋出日期：2023-02-11
+#修改日期：2026-01-28
 # 詳細說明請參見 https://github.com/gontera/array10
+#新增「教育部本土語言參考字表」漢字，並將今（2026年1月）安卓尚不能顯示的字元用#隱葳
 
 # Begin of CJK Unified Ideographs /w Extension A
 380871	溫
